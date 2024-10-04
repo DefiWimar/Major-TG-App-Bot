@@ -40,7 +40,7 @@
    ```python
    PROXY_TYPE = "socks5" # or http
    ```
-   You can add your referral code in config.pyyou can take it from your referral link, it comes after startapp=)
+   You can add your referral code in config.py you can take it from your referral link, it comes after startapp=)
    ```python
    REF_CODE = '707649803'
    ```
